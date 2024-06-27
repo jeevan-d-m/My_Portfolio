@@ -122,7 +122,7 @@ export const skills = [
           "https://main-educational.github.io/_images/logo_colab.png",
       },
       {
-        name: "Sk Learn Kit",
+        name: "Scikit Learn",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png",
       },
